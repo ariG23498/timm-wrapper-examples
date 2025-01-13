@@ -44,6 +44,8 @@ This repository contains a collection of **Jupyter Notebooks** demonstrating how
 
 ## Example Models on Hugging Face Hub 🧩  
 
+[Hugging Face Collection](https://huggingface.co/collections/ariG23498/timmwrapper-6777b85f1e8d085d3f1374a1)
+
 | **Model**                                                   | **Description**           |
 |-------------------------------------------------------------|---------------------------|
 | [vit_base_patch16_224_food101](https://huggingface.co/ariG23498/vit_base_patch16_224.augreg2_in21k_ft_in1k.ft_food101) | Fine-tuned on Food101.     |
